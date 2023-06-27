@@ -1,0 +1,14 @@
+UC5:
+    Número do aluno:João Vieira
+    Nome do aluno: 45677
+    Horas gastas: 10h
+    
+UC6:
+    Número do aluno: Mafalda Cravo
+    Nome do aluno: 52778
+    Horas gastas: 10h
+    
+UC7:
+    Número do aluno: Francisco Barata
+    Nome do aluno: 53685
+    Horas gastas: 10h
